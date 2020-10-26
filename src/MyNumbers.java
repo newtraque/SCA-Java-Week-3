@@ -12,7 +12,7 @@ public class MyNumbers {
 
         while(randNum.size() < 20){
             randNum.add(rand.nextInt(100));
-            //generates 20 nos within the range of 1 to 100
+            //generates 20 nos within the range of 1 to 99
         }
 
 
